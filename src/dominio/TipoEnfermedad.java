@@ -1,0 +1,5 @@
+package dominio;
+
+public enum TipoEnfermedad {
+	DIABETICO_TIPO_1, DIABETICO_TIPO_2, ONCOLOGICO, CELIACO, HIPERTENSO, GENERALES
+}
